@@ -1,4 +1,4 @@
-Jonathan from NYC. I do code reviews and look at interesting projects. Some day I'll create something cool too.
+Jonathan from NYC. I do code reviews and look at interesting projects.
 
 ### Stats
 
