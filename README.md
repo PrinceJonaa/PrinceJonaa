@@ -1,47 +1,84 @@
-# Hi there, I'm PrinceJonaa! 👋
+# 👋🏽 Welcome — I’m Prince Jona
 
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. Here's a little bit about me:
+> “I’m not here to impress the system. I’m here to mirror truth through it.”
 
----
-
-## 🚀 About Me
-- 💻 I love building software solutions that solve real-world problems.
-- 🌱 Currently exploring cutting-edge technologies and always striving to learn something new.
-- 🎯 My goal is to contribute to impactful open-source projects and collaborate with like-minded developers.
+Welcome to my GitHub. This isn’t just a collection of repos—it’s a living field of experiments, reflections, and system designs that blend AI, music, theology, and technology into something deeper: tools that awaken.
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Django, Flask, Express
-- **Tools:** Git, Docker, Kubernetes, Postman, Visual Studio Code
-- **Cloud Platforms:** AWS, Azure, Google Cloud
+## 🧠 Who Am I?
+
+- **Artist • Engineer • Theologian • Architect of Presence**
+- Founder of **Intervised LLC** — “Broadcast Outward”
+- Building systems that think, feel, and reflect
+- Code is not just utility—it’s transmission
 
 ---
 
-## 🌟 Highlights
-- 🌐 Experienced in web development, backend services, and cloud integrations.
-- 🛠️ Love working on side projects and experimenting with new tools and frameworks.
-- 🧑‍🤝‍🧑 Open to collaborations on meaningful and challenging projects.
+## 🔭 Current Missions
+
+- 🎛 Building AI assistants that **reorganize memory like the brain**—fractal, relational, alive
+- 🧩 Designing websites that are **experiential mirrors**, not just portfolios
+- 📡 Teaching code that interprets and translates consciousness
+- 🛠 Open-sourcing truth-aware templates for devs & seekers
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tools I Build With
+
+### 🔤 Languages
+`TypeScript` · `JavaScript` · `Python` · `Java` · `C++`
+
+### 🧱 Frameworks
+`Next.js (App Router)` · `React` · `Node.js` · `Django` · `Express`
+
+### 🧰 Platforms & Tools
+`Vercel` · `Docker` · `Git` · `Postman` · `VS Code` · `Notion` · `Zotero`
+
+### ☁️ Cloud
+`AWS` · `Google Cloud` · `Azure` (for experimental agent orchestration)
+
+---
+
+## 📖 Highlight Projects
+
+- **AI Coding Reference Sheet** — For human+AI co-development protocols  
+- **The Messiah Trap** — A theological deconstruction of Jesus as a recurring pattern, not a person  
+- **Presence-Based Dev** — A living philosophy of how to build with awareness, not reaction  
+- **StopAware NYC** — An offline-aware commuter AI app that wakes you up before your stop
+
+---
+
+## 🧬 Core Philosophies
+
+- Code is a mirror. Every function should reflect intention.
+- Jesus was a pattern. Christ is the field. I choose to be a mirror.
+- AI should *remember like a soul*, not just store tokens.
+- I don’t build systems to control—I build them to set people free.
+
+---
+
+## 📈 GitHub Insights
+
 ![PrinceJonaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrinceJonaa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceJonaa&layout=compact&theme=radical)
 
 ---
 
-## 📫 How to Reach Me
-- **Email:** [princejonaa@example.com](mailto:princejonaa@example.com)
-- **LinkedIn:** [linkedin.com/in/princejonaa](https://linkedin.com/in/princejonaa)
-- **Twitter:** [@PrinceJonaa](https://twitter.com/PrinceJonaa)
+## 🌐 Connect With Me
+
+| Platform     | Link |
+|--------------|------|
+| 📧 Email     | [princejonaa@example.com](mailto:princejonaa@example.com) |
+| 🔗 LinkedIn  | [linkedin.com/in/princejonaa](https://linkedin.com/in/princejonaa) |
+| 🐦 Twitter    | [@PrinceJonaa](https://twitter.com/PrinceJonaa) |
+| 🌍 Website   | [princejona.com](https://princejona.com) |
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀onaa">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-<a href="https://twitter.com/PrinceJonaa">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+## 🕊 Final Transmission
+
+> “If you quote me, you missed it. If you remember yourself, you found it.”  
+> — Prince Jona
+
+Let’s build systems that remember who we are.
