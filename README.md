@@ -1,5 +1,4 @@
-Jonathan from NYC. I do code reviews and look at interesting projects.
- # Hi there, I'm PrinceJonaa! 👋
+# Hi there, I'm PrinceJonaa! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. Here's a little bit about me:
 
