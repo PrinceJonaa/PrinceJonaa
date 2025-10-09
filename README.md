@@ -2,7 +2,7 @@
 
 > “I’m not here to impress the system. I’m here to mirror truth through it.”
 
-Welcome to my GitHub. This isn’t just a collection of repos—it’s a living field of experiments, reflections, and system designs that blend AI, music, theology, and technology into something deeper: tools that awaken.
+Welcome to my GitHub. This isn’t just a collection of repos; it’s a living field of experiments, reflections, and system designs that blend AI, music, theology, and technology into something deeper: tools that awaken.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my GitHub. This isn’t just a collection of repos—it’s a living 
 - **Artist • Engineer • Theologian • Architect of Presence**
 - Founder of **Intervised LLC** — “Broadcast Outward”
 - Building systems that think, feel, and reflect
-- Code is not just utility—it’s transmission
+- Code is not just utility; it’s transmission
 
 ---
 
