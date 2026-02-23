@@ -43,11 +43,11 @@
 | Status | Project | Stack | What it is |
 |:---:|---|---|---|
 | ![Active](https://img.shields.io/badge/●-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d0d) | [**The-Arc**](https://github.com/PrinceJonaa/The-Arc) | Swift 6 · iOS 26 | Actively shipping — hottest repo this week |
-| ![Active](https://img.shields.io/badge/●-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d0d) | [**elite-mind-glasses**](https://github.com/PrinceJonaa/elite-mind-glasses) | TypeScript · On-device AI | See any situation through elite decision frameworks |
+| ![Active](https://img.shields.io/badge/●-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d0d) | **elite-mind-glasses** `private` | TypeScript · On-device AI | See any situation through elite decision frameworks |
 | ![Active](https://img.shields.io/badge/●-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d0d) | [**Mirror-OS**](https://github.com/PrinceJonaa/Mirror-OS) | Python | Phenomenological truth engine · 1 ★ |
 | ![Active](https://img.shields.io/badge/●-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d0d) | [**StatefulREPL**](https://github.com/PrinceJonaa/StatefulREPL) | Python | AI REPL with persistent memory across sessions |
-| ![WIP](https://img.shields.io/badge/○-WIP-555555?style=flat-square&labelColor=0d0d0d) | [**VibeCloud**](https://github.com/PrinceJonaa/VibeCloud) | Swift · SwiftUI | Music × mood cloud sync |
-| ![WIP](https://img.shields.io/badge/○-WIP-555555?style=flat-square&labelColor=0d0d0d) | [**Web-Novel-Reader**](https://github.com/PrinceJonaa/Web-Novel-Reader) | Swift | Offline-first story library · save-for-later |
+| ![WIP](https://img.shields.io/badge/○-WIP-555555?style=flat-square&labelColor=0d0d0d) | **VibeCloud** `private` | Swift · SwiftUI | Music × mood cloud sync |
+| ![WIP](https://img.shields.io/badge/○-WIP-555555?style=flat-square&labelColor=0d0d0d) | **Web-Novel-Reader** `private` | Swift | Offline-first story library · save-for-later |
 
 ## 🌐 Web · Deployed
 
@@ -120,16 +120,15 @@ Focus areas:
 ## 📊 Signal Strength
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=PrinceJonaa&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=888888&dates=666666" />
-      </td>
-      <td>
-        <img alt="Top languages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceJonaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6&cache_seconds=86400" />
-      </td>
-    </tr>
-  </table>
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=PrinceJonaa&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=888888&dates=666666" />
+</div>
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/PrinceJonaa?style=for-the-badge&logo=github&label=followers&color=7c3aed)
+![Last Commit](https://img.shields.io/github/last-commit/PrinceJonaa/PrinceJonaa?style=for-the-badge&color=7c3aed)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/PrinceJonaa/PrinceJonaa?style=for-the-badge&color=7c3aed)
+
 </div>
 
 <!-- ACTIVITY GRAPH: area fill + rounded corners -->
@@ -137,43 +136,15 @@ Focus areas:
   <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceJonaa&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=8" />
 </div>
 
-<!-- TROPHIES -->
-<div align="center">
-  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=PrinceJonaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
 <!-- ─────────────────────── DIVIDER ─────────────────────────── -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🐍 Contribution Trail
 
-<!--
-  ONE-TIME SETUP: Add this file to your profile repo at
-  .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 12 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: PrinceJonaa
-            outputs: |
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+> Actions-free alternative (no workflow required)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PrinceJonaa/PrinceJonaa/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img width="100%" src="https://ghchart.rshah.org/7c3aed/PrinceJonaa" alt="GitHub contribution calendar heatmap" />
 </div>
 
 <!-- ============================================================ -->
