@@ -141,8 +141,6 @@ Focus areas:
 
 ## 🐍 Contribution Trail
 
-> Actions-free alternative (no workflow required)
-
 <div align="center">
   <img width="100%" src="https://ghchart.rshah.org/7c3aed/PrinceJonaa" alt="GitHub contribution calendar heatmap" />
 </div>
